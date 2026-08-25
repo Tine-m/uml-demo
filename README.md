@@ -1,4 +1,4 @@
-# uml-demo
+# uml-demo.
 
 ```mermaid
 classDiagram
