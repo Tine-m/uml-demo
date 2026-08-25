@@ -12,3 +12,16 @@ classDiagram
         +int ordreId
     }
 ```
+
+her kommer der noget java kode
+
+```java
+int count = 0;
+```
+
+
+her kommer noget sql
+
+```sql
+select * from varer;
+```
