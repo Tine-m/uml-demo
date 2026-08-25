@@ -1,1 +1,14 @@
 # uml-demo
+
+```mermaid
+classDiagram
+    Kunde "1" --> "*" Ordre : har
+    
+    class Kunde {
+        +int kundeId
+    }
+    
+    class Ordre {
+        +int ordreId
+    }
+```
