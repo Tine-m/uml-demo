@@ -2,7 +2,7 @@
 
 ```mermaid
 classDiagram
-    Kunde "1" --> "*" Ordre : har
+    Kunde "1" --> "0..*" Ordre : har
     
     class Kunde {
         +int kundeId
