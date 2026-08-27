@@ -5,7 +5,7 @@ classDiagram
     Kunde "1" --> "0..*" Ordre : har
     
     class Kunde {
-        +int kundeId
+        +int kunde_Id
     }
     
     class Ordre {
