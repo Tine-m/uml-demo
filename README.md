@@ -9,7 +9,7 @@ classDiagram
     }
     
     class Ordre {
-        +int ordreId
+        +int ordre_Id
     }
 ```
 
